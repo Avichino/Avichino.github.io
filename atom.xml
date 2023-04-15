@@ -3,11 +3,11 @@
   <title>Avichinoのblog</title>
   
   <subtitle>一番の宝物</subtitle>
-  <link href="http://avichino.github.io/atom.xml" rel="self"/>
+  <link href="https://avichino.github.io/atom.xml" rel="self"/>
   
-  <link href="http://avichino.github.io/"/>
+  <link href="https://avichino.github.io/"/>
   <updated>2023-04-15T06:27:35.566Z</updated>
-  <id>http://avichino.github.io/</id>
+  <id>https://avichino.github.io/</id>
   
   <author>
     <name>Avichino</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://avichino.github.io/posts/4a17b156.html"/>
-    <id>http://avichino.github.io/posts/4a17b156.html</id>
+    <link href="https://avichino.github.io/posts/4a17b156.html"/>
+    <id>https://avichino.github.io/posts/4a17b156.html</id>
     <published>2023-04-15T05:32:45.830Z</published>
     <updated>2023-04-15T06:27:35.566Z</updated>
     
